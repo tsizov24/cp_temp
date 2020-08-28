@@ -24,7 +24,7 @@ void solve() {
     cin >> t;
     // t = 1;
     while(t--) {
-        
+    	
     }
 }
 
